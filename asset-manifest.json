@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/input_react_app/static/css/main.943e8beb.chunk.css",
+    "main.js": "/input_react_app/static/js/main.115bd99d.chunk.js",
+    "main.js.map": "/input_react_app/static/js/main.115bd99d.chunk.js.map",
+    "runtime-main.js": "/input_react_app/static/js/runtime-main.bbaea922.js",
+    "runtime-main.js.map": "/input_react_app/static/js/runtime-main.bbaea922.js.map",
+    "static/js/2.faf33838.chunk.js": "/input_react_app/static/js/2.faf33838.chunk.js",
+    "static/js/2.faf33838.chunk.js.map": "/input_react_app/static/js/2.faf33838.chunk.js.map",
+    "index.html": "/input_react_app/index.html",
+    "precache-manifest.7eb607db6397b435c058cb19a544afb6.js": "/input_react_app/precache-manifest.7eb607db6397b435c058cb19a544afb6.js",
+    "service-worker.js": "/input_react_app/service-worker.js",
+    "static/css/main.943e8beb.chunk.css.map": "/input_react_app/static/css/main.943e8beb.chunk.css.map",
+    "static/js/2.faf33838.chunk.js.LICENSE": "/input_react_app/static/js/2.faf33838.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbaea922.js",
+    "static/js/2.faf33838.chunk.js",
+    "static/css/main.943e8beb.chunk.css",
+    "static/js/main.115bd99d.chunk.js"
+  ]
+}
