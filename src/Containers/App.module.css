@@ -1,0 +1,30 @@
+.App {
+  width: 60%;
+  margin: 10% auto;
+  padding: 2em;
+  text-align: center;
+  font-size: 1.3em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-shadow: 0 2.2px 2.4px rgba(0, 0, 0, 0.047),
+    0 5.6px 6.1px rgba(0, 0, 0, 0.067), 0 11.5px 12.4px rgba(0, 0, 0, 0.083),
+    0 23.7px 25.6px rgba(0, 0, 0, 0.103), 0 65px 70px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  background-color: gainsboro;
+}
+.App input {
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  padding: 0.5em;
+  font-size: 1em;
+  border-radius: 10px;
+  background-color: gainsboro;
+}
+.App p {
+  display: inline-block;
+  margin-top: 0em;
+}
+.App button {
+  display: block;
+  margin: 0 auto;
+}
